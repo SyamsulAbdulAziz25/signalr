@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\signalrMessage</_PublishTargetUrl>
+    <History>True|2022-01-26T10:51:24.6068990Z;True|2022-01-26T17:48:56.4357887+07:00;True|2022-01-26T17:42:26.9907400+07:00;True|2022-01-26T17:27:26.8884049+07:00;True|2022-01-26T17:21:09.4687085+07:00;True|2022-01-26T16:23:06.1778828+07:00;False|2022-01-26T16:21:19.8008017+07:00;True|2022-01-26T14:33:54.7928281+07:00;</History>
+  </PropertyGroup>
+</Project>
